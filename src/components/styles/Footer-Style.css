@@ -1,0 +1,23 @@
+.footer{
+    width: 100%;
+}
+
+.footer-fill{
+    /* background-color:red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.footer-item{
+    margin-left: 0.3%;
+    margin-right: 0.3%;
+    /* background-color: yellow; */
+}
+
+.footer-fill a{
+    text-decoration: none;
+    color: #71a7d3;
+}

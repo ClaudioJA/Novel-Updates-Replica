@@ -1,0 +1,78 @@
+/* body{
+    background-color: black;
+    color: white;
+} */
+
+table{
+    /* margin-left: 5%;
+    margin-right: 5%; */
+    width: 90%;
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    border-radius: 10px !important;
+    overflow: hidden;
+    /* background-color: cyan; */
+}
+
+table{
+    /* padding-left: 1%; */
+    text-align: left;
+}
+
+.dark-mode table thead tr th {
+    /* padding-left: 1%; */
+    background-color: #181a1b;
+}
+
+table thead tr th {
+    color: white;
+    background-color: #2c3e50;
+}
+
+table thead tr th {
+    padding-left: 2%;
+    /* background-color: cyan; */
+}
+
+table tbody tr th {
+    padding-left: 2%;
+    /* background-color: cyan; */
+}
+
+table tbody tr th a{
+    text-decoration: none;
+    color: #71a7d3;
+}
+
+/* table tbody tr th a:hover{
+    color: white;
+    text-shadow: 0 0 3px black;
+}
+
+.newNovelBtn a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 0.2%;
+} */
+
+.dark-mode table {
+    border-color: white;
+}
+
+.even-row{
+    background-color: #f8f8f8;
+}
+
+.dark-mode .even-row{
+    background-color: #1c1e1f;
+}
+
+.odd-row{
+    background-color: #ffffff;
+}
+
+.dark-mode .odd-row{
+    background-color: #181a1b;
+}

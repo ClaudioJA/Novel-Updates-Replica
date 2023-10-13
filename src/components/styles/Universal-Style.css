@@ -1,0 +1,22 @@
+/* .mainPage{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+} */
+
+button{
+    background-color: #2c3e50;
+    color: white;
+    border-radius: 10%;
+    padding: 0.5%;
+}
+
+button:hover{
+    background-color: white;
+    color: #2c3e50;
+}
+
+.sideMenuLink{
+    text-decoration: none;
+    color: white;
+}
